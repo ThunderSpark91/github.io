@@ -13,7 +13,6 @@ This website is a representation of my resume in terms of education and proffesi
 - How to use HTML to build a website
 - How to use CSS to personalize a website
 - How to use Java script to create custom functions and applie them to HTML elements
-- How to use PHP to create a contact form
 
 
  
