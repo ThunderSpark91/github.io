@@ -2372,6 +2372,7 @@ class PHPMailer
         return $type . ': ' . implode(', ', $addresses) . static::$LE;
     }
 
+    
     /**
      * Format an address for use in a message header.
      *
