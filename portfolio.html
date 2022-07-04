@@ -82,31 +82,41 @@
 
                 <div class="row" data-aos="fade-up" data-aos-delay="100">
                     <div class="col-lg-12 d-flex justify-content-center">
+
                         <ul id="portfolio-flters">
-                            <li data-filter="*" class="filter-active">All</li>
-                            <li data-filter=".filter-app">App</li>
+                            <li data-filter="*" class="filter-active">Alles</li>
+                            <li data-filter=".filter-app">Applicatie</li>
                             <!-- <li data-filter=".filter-card">Card</li> -->
-                            <li data-filter=".filter-web">Web</li>
+                            <li data-filter=".filter-web">Website/Webapplicatie</li>
                             <li data-filter=".filter-game">Game</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-12 d-flex justify-content-center">
+                        <ul id="portfolio-flters">
+                            <li data-filter=".filter-werkveld">Werkveld</li>
+                            <!-- <li data-filter=".filter-card">Card</li> -->
+                            <li data-filter=".filter-hobby">Hobby</li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web filter-hobby">
                         <div class="portfolio-wrap">
                             <img src="assets/img/portfolio/Portfolio CV Website/CV Website Afbeelding 1.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h4>CV website</h4>
-                                <p>CV website</p>
+                                <p>Klik op de plus voor details</p>
                                 <div class="portfolio-links">
                                     <a href="Portfolio-details-CVWebsite.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-plus"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web filter-app">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web filter-app filter-werkveld">
                         <div class="portfolio-wrap">
                             <img src="assets/img/portfolio/PODTRACER/LOGO/PODTRACER_LOGO_ATTEMPT_1.png" class=" img-fluid " alt=" ">
                             <div class="portfolio-info ">
@@ -156,10 +166,21 @@
     <!-- End #main -->
 
     <!-- ======= Footer ======= -->
-    <footer id="footer ">
-        <div class="container ">
-            <div class="copyright ">
-                &copy; Copyright <strong><span>Joerie Judong</span></strong>. All Rights Reserved
+    <footer id="footer">
+        <div class="container">
+            <div class="copyright">
+                <span>&copy; Copyright:</span>
+                <span><strong>Joerie Judong</strong></span>
+                <div>
+                    <span id="lastModified"></span>
+                </div>
+                <div>
+                    <span>All Rights Reserved</span>
+                </div>
+            </div>
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                Designed by <a href="about.html">Joerie Judong</a>
             </div>
         </div>
     </footer>
@@ -183,6 +204,7 @@
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
     <script src="assets/js/custom.js"></script>
+    <script src="assets/js/lastmodified.js"></script>
 
 </body>
 
