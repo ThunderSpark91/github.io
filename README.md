@@ -1,5 +1,7 @@
 # Portfolio Resume
+
 <hr>
+
 # English
 Hello,
 Welcome on my portfolio resume website. 
@@ -15,8 +17,10 @@ It is also the application of my current knowledge and skill in web development.
 - How to use HTML to build a website
 - How to use CSS to personalize a website
 - How to use Javascript to create custom functions and apply them to HTML elements.
+
 <hr>
-Nederlands:
+
+# Nederlands:
 
 Hallo,
 Welkom op mijn portfolio cv-website. 
