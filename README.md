@@ -16,7 +16,7 @@ Het is ook de toepassing van mijn huidige kennis en vaardigheid in webontwikkeli
 - Hoe CSS te gebruiken om een website te personaliseren
 - Hoe Javascript te gebruiken om aangepaste functies te creëren en deze toe te passen op HTML-elementen
 
-# Hoe ik mee verder ga
+# Hoe ik er mee verder ga
 
 - Mezelf verdiepen in CSS en HTML.
 - PHP aanleren.
